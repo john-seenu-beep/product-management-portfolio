@@ -1,24 +1,33 @@
 # CRM Improvement Case Study
 
+## Background
+A CRM system is used daily by teams to manage leads and customer interactions.
+
 ## Problem
 Users need multiple clicks to complete common tasks.
 
 ## User Pain Points
 - Too many steps
-- Time-consuming workflow
-- Difficult navigation
+- Slow navigation
+- Difficult to find important information
+
+## User Persona
+Sales Executive
+- Uses CRM daily
+- Needs quick access to leads
+- Wants to save time
 
 ## Proposed Solution
-- Simplify workflow
-- Add shortcuts for common actions
-- Improve dashboard visibility
+- Quick action buttons
+- Better dashboard layout
+- Faster search functionality
 
-## Expected Impact
-- Faster task completion
-- Better user experience
-- Increased productivity
+## Success Metrics
+- Reduced task completion time
+- Increased user satisfaction
+- Higher productivity
 
-## Metrics
-- Time saved per task
-- User satisfaction
-- Feature adoption rate
+## Product Manager Takeaways
+- Focus on user pain points
+- Measure impact with data
+- Prioritize high-frequency workflows
